@@ -7,6 +7,7 @@ I want to be a dev to improve daily life.
 - 🔗 html/css 
 - 🐍 a little bit python (learning) 
 - 🎮 C# with unity 
+- 📈 PlantUML
 
 #### 🚧 I’m currently working on my portfolio for entered school
 
