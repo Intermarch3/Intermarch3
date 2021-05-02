@@ -5,7 +5,8 @@ I want to be a dev to improve daily life.
 
 ### my language is :
 - 🔗 html/css 
-- 🐍 a little bit python (learning) 
+- ✨ javascript (learning)
+- 🐍 python (learning) 
 - 🎮 C# with unity 
 - 📈 PlantUML
 
