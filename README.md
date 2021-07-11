@@ -7,10 +7,10 @@ I want to be a dev to improve daily life.
 - 🔗 html/css 
 - ✨ javascript (learning)
 - 🐍 python (learning) 
-- 🎮 C# with unity 
+- 🎮 C# with unity (little bit)
 - 📈 PlantUML
 
-#### 🚧 I’m currently working on my portfolio for entered school
+#### 🚧 I’m currently working on my portfolio
 
 ### contact me 📧 :
 I am a beginner who wants to learn more about a lot of language so if you are experienced and want to help me out,
