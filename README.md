@@ -17,4 +17,3 @@ I am a beginner who wants to learn more about a lot of language so if you are ex
 do not hesitate to contact me on : 
 * discord : Luka74#3272
 * insta : [@lucasl74](https://www.instagram.com/lucasl74/)
-* twitter : [@intermarch3](https://twitter.com/intermarch3)
