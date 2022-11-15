@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lucas, i'm french and i'm 16 years old.
+I'm Lucas, i'm french and i'm 17 years old.
 I want to be a dev to improve daily life.
 
 ### my language is :
