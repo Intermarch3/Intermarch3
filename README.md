@@ -7,8 +7,8 @@ I want to be a dev to improve daily life.
 - 🔗 html/css 
 - ✨ javascript (basics)
 - 🐍 python
-- 📈 PlantUML
- I'm currently learning C
+- 📈 PlantUML  
+#### I'm currently learning C
 
 ### contact me 📧 :
 I am a beginner who wants to learn more about a lot of language so if you are experienced and want to help me out,
