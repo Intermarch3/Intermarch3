@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Lucas, i'm french and i'm 17 years old.
-I want to be a dev to improve daily life.
+I'm an Epitech student and 
+i want to be a dev to improve daily life.
 
 ### my language is :
 - 🔗 html/css 
