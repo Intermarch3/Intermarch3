@@ -9,11 +9,11 @@ I'm a student at Epitech, and I aspire to become a developer to enhance daily li
 
 > [!IMPORTANT]
 > I'm currently seeking an internship in a blockchain-related company.
-> **Check out my [LinkedIn](www.linkedin.com/in/lucas-leclerc-06034b29b) for more information.**
+> **Check out my [LinkedIn](https://www.linkedin.com/in/lucas-leclerc-06034b29b) for more information.**
 
 ## Contact me 📧 :
 Feel free to reach out to me via: 
 * Twitter: [Intermarch3](https://www.twitter.com/intermarch3/)
 * Personal Email: [intermarch3@gmail.com](mailto:intermarch3@gmail.com)
 * Professional Email: [lucas.leclerc@epitech.eu](mailto:lucas.leclerc@epitech.eu)
-* LinkedIn: [Lucas Leclerc](www.linkedin.com/in/lucas-leclerc-06034b29b)
+* LinkedIn: [Lucas Leclerc](https://www.linkedin.com/in/lucas-leclerc-06034b29b)
