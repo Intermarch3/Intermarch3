@@ -7,10 +7,6 @@ I'm a student at Epitech, and I aspire to become a developer to enhance daily li
 
 ### I'm particularly interested in blockchain technology and continuously expanding my knowledge in this field.
 
-> [!IMPORTANT]
-> I'm currently seeking an internship in a blockchain-related company.
-> **Check out my [LinkedIn](https://www.linkedin.com/in/lucas-leclerc-06034b29b) for more information.**
-
 ## Contact me 📧 :
 Feel free to reach out to me via: 
 * Twitter: [Intermarch3](https://www.twitter.com/intermarch3/)
